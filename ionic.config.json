@@ -1,0 +1,8 @@
+{
+  "name": "myustadz2",
+  "app_id": "167f4151",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
